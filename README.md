@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://tempusplay.com" target="_blank" rel="noopener noreferrer">
-    <img src="app/icon.svg" alt="Tempus Logo" width="96" height="96" />
+    <img src="icon.svg" alt="Tempus Logo" width="96" height="96" />
   </a>
 
   # TEMPUS
